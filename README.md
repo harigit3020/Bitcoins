@@ -12,7 +12,7 @@ Step 1:
 
 Download or clone this repo by using the link below:
 
-[text](https://github.com/harigit3020/Bitcoins.git)
+https://github.com/harigit3020/Bitcoins.git
 
 Step 2:
 
