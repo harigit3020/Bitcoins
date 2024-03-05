@@ -14,7 +14,7 @@ List<BitcoinRateModel> testRatesList = [
       rateFloat: 64969.3359)
 ];
 void main() {
-  test('should return a list of valid model of rates form json response',
+  test('should return a list of valid model of rates from json response',
       () async {
     //arrange
     final Map<String, dynamic> jsonMap =
